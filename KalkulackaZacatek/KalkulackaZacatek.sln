@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulackaZacatek", "KalkulackaZacatek\KalkulackaZacatek.csproj", "{B2827C47-D838-4EB3-91C1-9836A75D431B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2827C47-D838-4EB3-91C1-9836A75D431B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2827C47-D838-4EB3-91C1-9836A75D431B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2827C47-D838-4EB3-91C1-9836A75D431B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2827C47-D838-4EB3-91C1-9836A75D431B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C885C23-B918-49D5-B8C7-E9038BF87A0C}
+	EndGlobalSection
+EndGlobal
