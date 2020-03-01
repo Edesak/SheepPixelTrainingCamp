@@ -1,0 +1,10 @@
+c# kalkulacka
+
+- prvne udelat natvrdo
+- pak udelat se vstupem a funkcemi
+- predelat na dynamicky se vstupem
+
+
+udelat vsechny ctyri zakladni operace, hlavne deleno
+
+deadline streda! Udelat v utery
