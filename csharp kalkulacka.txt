@@ -7,4 +7,4 @@ c# kalkulacka
 
 udelat vsechny ctyri zakladni operace, hlavne deleno
 
-deadline streda! Udelat v utery
+Zmena deadlinu - ctvrtek? Patek?
