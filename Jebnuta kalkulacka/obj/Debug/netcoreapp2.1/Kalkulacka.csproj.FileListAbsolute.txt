@@ -9,3 +9,5 @@ C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kal
 C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.AssemblyInfo.cs
 C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.dll
 C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.pdb
+C:\Users\Martin Ošťádal\Source\Repos\SheepPixelTrainingCamp\Jebnuta kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.dll
+C:\Users\Martin Ošťádal\Source\Repos\SheepPixelTrainingCamp\Jebnuta kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.pdb
