@@ -1,0 +1,11 @@
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\bin\Debug\netcoreapp2.1\Kalkulacka.deps.json
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\bin\Debug\netcoreapp2.1\Kalkulacka.runtimeconfig.json
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\bin\Debug\netcoreapp2.1\Kalkulacka.runtimeconfig.dev.json
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\bin\Debug\netcoreapp2.1\Kalkulacka.dll
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\bin\Debug\netcoreapp2.1\Kalkulacka.pdb
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.csprojAssemblyReference.cache
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.AssemblyInfoInputs.cache
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.AssemblyInfo.cs
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.dll
+C:\Users\Martin Ošťádal\Desktop\DotNet\Kalkulacka\obj\Debug\netcoreapp2.1\Kalkulacka.pdb
